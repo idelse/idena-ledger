@@ -6,20 +6,24 @@ This app is still not available in [Ledger Live](https://www.ledger.com/ledger-l
 install it manually.
 
 ### Requirements
-- [docker](https://www.docker.com/)
-- [python3](https://www.python.org/download/releases/3.0/)
 - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
-### 1. Install python environment
+### 1. Download pre-compiled binaries
+```
+curl -L https://github.com/idena-dev/idena-ledger/releases/download/v.0.1/idena-ledger-v.0.1.tar.gz | tar xz && cd idena-ledger-v.0.1
+```
+
+### 2. Install python environment
 ```
 virtualenv .envs/ledger -p python3
 source .envs/ledger/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Build the app
+### 3. Build the app
 ```
-make build
+chmod +x zxtool.sh
+./zxtool.sh load
 ```
 
 ### 3. Install
