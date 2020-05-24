@@ -24,15 +24,10 @@ If you don't want to use virualenv, you can install ledgerblue as a global depen
 pip3 install ledgerblue
 ```
 
-### 3. Build the app
+### 3. Install the app
 ```
 chmod +x zxtool.sh
 ./zxtool.sh load
-```
-
-### 3. Install
-```
-make load
 ```
 
 ## How to use
