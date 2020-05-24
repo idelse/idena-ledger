@@ -19,6 +19,11 @@ source .envs/ledger/bin/activate
 pip install -r requirements.txt
 ```
 
+If you don't want to use virualenv, you can install ledgerblue as a global dependency:
+```
+pip3 install ledgerblue
+```
+
 ### 3. Build the app
 ```
 chmod +x zxtool.sh
