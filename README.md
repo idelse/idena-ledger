@@ -1,7 +1,7 @@
 # idena-ledger
 Idena wallet application framework for Nano S and Nano X
 
-## How to install
+## How to install (Ledger Nano S)
 This app is still not available in [Ledger Live](https://www.ledger.com/ledger-live/), so you will have to build and
 install it manually.
 
