@@ -27,6 +27,10 @@ make build
 make load
 ```
 
+## How to use
+This video shows how to use idena-ledger app with idena-pocket.
+<a href="https://www.youtube.com/watch?v=8iPOp7kwarA"><img src="./assets/youtube_preview.png" /></a>
+
 ## Supported clients
 - [idena-pocket](http://pocket.idena.dev/)
 
