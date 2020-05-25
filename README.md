@@ -31,7 +31,7 @@ chmod +x zxtool.sh
 ```
 
 ## How to use
-This video shows how to use idena-ledger app with idena-pocket. Now it works only on Google Chrome with the "Experimental Web Platform features" flag enabled (hrome://flags/#enable-experimental-web-platform-features)
+This video shows how to use idena-ledger app with idena-pocket. Now it works only on Google Chrome with the "Experimental Web Platform features" flag enabled (chrome://flags/#enable-experimental-web-platform-features)
 <br />
 <a target="_blank" href="https://www.youtube.com/watch?v=8iPOp7kwarA"><img src="./assets/youtube_preview.png" /></a>
 
