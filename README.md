@@ -6,6 +6,7 @@ This app is still not available in [Ledger Live](https://www.ledger.com/ledger-l
 it manually as explained in this section. Also a [video tutorial](https://youtu.be/PhUvMrQSi0A) is available.
 
 ### Requirements
+- python3
 - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
 ### 1. Download pre-compiled binaries
