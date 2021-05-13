@@ -6,6 +6,7 @@ This app is still not available in [Ledger Live](https://www.ledger.com/ledger-l
 it manually as explained in this section. Also a [video tutorial](https://youtu.be/PhUvMrQSi0A) is available.
 
 ### Requirements
+- if you run in to any issues try [ledgerfix](https://support.ledger.com/hc/en-us/articles/115005165269-What-if-Ledger-Wallet-is-not-recognized-on-Linux-)
 - python3
 - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
