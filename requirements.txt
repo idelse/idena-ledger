@@ -10,7 +10,7 @@ future==0.18.2
 hidapi==0.9.0.post2
 idna==2.9
 ledgerblue==0.1.31
-Pillow==7.1.2
+Pillow==8.2.0
 protobuf==3.11.3
 pycryptodome==3.9.7
 pycryptodomex==3.9.7
