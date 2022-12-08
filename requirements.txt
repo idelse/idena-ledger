@@ -1,4 +1,4 @@
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 cytoolz==0.10.1
 ECPy==1.2.3
